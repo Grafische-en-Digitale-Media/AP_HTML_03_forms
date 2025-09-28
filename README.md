@@ -2,4 +2,4 @@
 ### Repository that illustrates the basics on HTML and CSS & Forms ###
 
 
-> Digital & Graphic Media at AP, Antwerp - Belgium
+> Digital & Graphic Media at AP, Antwerp - Belgium 
